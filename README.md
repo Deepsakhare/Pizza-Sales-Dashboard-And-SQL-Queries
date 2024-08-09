@@ -1,0 +1,1 @@
+Developed an analytical dashboard to track and optimize pizza sales performance by leveraging SQL queries to calculate key metrics such as total revenue, average order value, and sales trends by category and size. Implemented top and bottom 5 analyses for pizzas by revenue, quantity, and orders, providing actionable insights to enhance menu strategy and boost profitability.
